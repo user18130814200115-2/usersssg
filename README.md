@@ -1,2 +1,0 @@
-# usersssg
-Fork of ssg
